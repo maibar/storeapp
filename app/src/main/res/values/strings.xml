@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">1010Store</string>
+    <string name="title_home">Smart Home</string>
+    <string name="title_page">1010 Store</string>
+    <string name="title_dashboard">Transaction</string>
+    <string name="title_notifications">1010 Pay</string>
+    <string name="title_feed">News Feed</string>
+    <string name="title_contact">Contact</string>
+</resources>
